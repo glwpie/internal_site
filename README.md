@@ -1,5 +1,5 @@
 
-# Documentation server now with logins (maybe
+# We can make it better!
 
-![CodeShip Status](https://codeship.com/projects/001ee650-be88-0134-47d2-0687878db410/status?branch=master)
+![CodeShip Status]()
 
