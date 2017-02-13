@@ -1,5 +1,5 @@
-<p class="lead">
-	<strong>”I Dunno” </strong> Will serve as a documentation repository for the IT Department.
+﻿<p class="lead">
+	<strong>”Intraweb” </strong> Walnut Hill Medical Center Internal Site
 </p>
 
 <hr/>
