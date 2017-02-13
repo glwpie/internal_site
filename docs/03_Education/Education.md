@@ -8,7 +8,7 @@ EBOLA INFORMATION & RESOURCES
  
 The link to the CDC Ebola page for health care - click here 
  
-ìInfection Prevention and Control Recommendations for Hospitalized Patients with Known or Suspected Ebola Virus Disease in U.S. Hospitalsî from the CDC - click here
+‚ÄúInfection Prevention and Control Recommendations for Hospitalized Patients with Known or Suspected Ebola Virus Disease in U.S. Hospitals‚Äù from the CDC - click here
  
 Click here for printable Fact Sheet
  
@@ -26,22 +26,22 @@ The disease, also known as Ebola hemorrhagic fever or Ebola virus, kills up to 9
  
 How Do You Get Ebola?
  
-Ebola isnít as contagious as more common viruses like colds, influenza, or measles. It spreads to people by contact with the skin or bodily fluids of an infected animal, like a monkey, chimp, or fruit bat. Then it moves from person to person the same way. Those who care for a sick person or bury someone who has died from the disease often get it.
+Ebola isn‚Äôt as contagious as more common viruses like colds, influenza, or measles. It spreads to people by contact with the skin or bodily fluids of an infected animal, like a monkey, chimp, or fruit bat. Then it moves from person to person the same way. Those who care for a sick person or bury someone who has died from the disease often get it.
  
 Other ways to get Ebola include touching contaminated needles or surfaces.
  
-You canít get Ebola from air, water, or food. A person who has Ebola but has no symptoms canít spread the disease, either.
+You can‚Äôt get Ebola from air, water, or food. A person who has Ebola but has no symptoms can‚Äôt spread the disease, either.
  
 What Are the Symptoms of Ebola?
  
 Early on, Ebola can feel like the flu or other illnesses. Symptoms show up 2 to 21 days after infection and usually include:
- ïHigh fever
- ïHeadache
- ïJoint and muscle aches
- ïSore throat
- ïWeakness
- ïStomach pain
- ïLack of appetite
+ ‚Ä¢High fever
+ ‚Ä¢Headache
+ ‚Ä¢Joint and muscle aches
+ ‚Ä¢Sore throat
+ ‚Ä¢Weakness
+ ‚Ä¢Stomach pain
+ ‚Ä¢Lack of appetite
  
 As the disease gets worse, it causes bleeding inside the body, as well as from the eyes, ears, and nose. Some people will vomit or cough up blood, have bloody diarrhea, and get a rash.
  
@@ -51,15 +51,15 @@ Sometimes it's hard to tell if a person has Ebola from the symptoms alone. Docto
  
 Tests of blood and tissues also can diagnose Ebola.
  
-If you have Ebola, youíll be isolated from the public immediately to prevent the spread.
+If you have Ebola, you‚Äôll be isolated from the public immediately to prevent the spread.
  
 How Is Ebola Treated?
  
-Thereís no cure for Ebola, though researchers are working on it. Treatment includes an experimental serum that destroys infected cells.
+There‚Äôs no cure for Ebola, though researchers are working on it. Treatment includes an experimental serum that destroys infected cells.
  
 Doctors manage the symptoms of Ebola with:
- ïFluids and electrolytes
- ïOxygen
- ïBlood pressure medication
- ïBlood transfusions
- ïTreatment for other infections
+ ‚Ä¢Fluids and electrolytes
+ ‚Ä¢Oxygen
+ ‚Ä¢Blood pressure medication
+ ‚Ä¢Blood transfusions
+ ‚Ä¢Treatment for other infections
