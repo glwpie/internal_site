@@ -1,4 +1,4 @@
-<strong>”I Dunno” </strong> Will serve as a documentation repository for the IT Department.
+<strong>”WHMC Intrant” </strong> Will serve as a documentation repository for the IT Department.
  
 Look to your left and select a category to get started.
 
