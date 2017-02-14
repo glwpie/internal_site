@@ -1,11 +1,11 @@
 {
-    "title": "I Dunno",
-    "tagline": "The Easiest Way To Figure Out What You Don’t Remember.",
+    "title": "WHMC Intranet",
+    "tagline": "Information Repo",
     "author": "George Whiting",
     "image": "app.png",
     "ignore": {
             "files": ["Work_In_Progress.md"],
-            "folders": ["Userfrosting"]
+            "folders": ["Testing"]
     },
     "live": {
         "clean_urls": true
@@ -17,11 +17,7 @@
         "toggle_code": true,
         "date_modified": true,
         "float": true,
-        "inherit_index": true,
-
-        "repo": "glwpie/documentation_server",
-        "edit_on_github": "glwpie/documentation_server/blob/master/docs",
-        
+        "inherit_index": true,        
         
         "links": {
                         
