@@ -1,22 +1,22 @@
-**Education**
+﻿**Education**
 
 Welcome to the WHMC education section of the intraweb.  This section will contain information about clinical education as well as general education for the staff.  If you have any questions, please contact:
  
 Linda Miller at ext. 6460
  
-EBOLA INFORMATION & RESOURCES
+**EBOLA INFORMATION & RESOURCES**
  
-The link to the CDC Ebola page for health care - click here 
+The link to the CDC Ebola page for health care - [click here](http://www.cdc.gov/vhf/ebola/hcp/index.html) 
  
 “Infection Prevention and Control Recommendations for Hospitalized Patients with Known or Suspected Ebola Virus Disease in U.S. Hospitals” from the CDC - click here
  
-Click here for printable Fact Sheet
+[Click here for printable Fact Sheet](http://home.whphdom.local/media/10673/ebola-factsheet.pdf)
  
-Click here for ppe information
+[Click here for ppe information](http://home.whphdom.local/media/10676/ppe-poster.pdf)
  
-Click here for a testing algorithm
+[Click here for a testing algorithm](http://home.whphdom.local/media/10670/DCHHSAlgorithmforTestingofSuspectedEVD_20140827.pdf)
  
-Ebola Virus Infection  (via WebMD)
+**Ebola Virus Infection  (via WebMD)**
  
 Ebola is a rare but deadly virus that causes bleeding inside and outside the body.
  
