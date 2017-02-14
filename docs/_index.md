@@ -16,7 +16,7 @@
 * [Our Story](Info/Multiple_Output_Formats.md)
 * [Patient Experince](Info/Multilanguage.md)
 * [Quality](Info/Live_mode.md)
-* [Recognition & Feedback](Info/static_Site_Generation.md)
+* [Recognition & Feedback](Info/Static_Site_Generation.md)
 * [Work Orders](Info/Table_of_contents.md)
 * [Case Management](Info/Table_of_contents.md)
 * [WHMC News](Info/Table_of_contents.md)
