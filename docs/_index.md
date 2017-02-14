@@ -3,22 +3,23 @@
 </p>
 
 <hr/>
-<h3> What is in here? Also, Why? -because I have the attention span of a goldfish</h3>
+<h3> What is in here? Also, Why? - This is a pretty universal place to post information </h3>
 <hr/>
 <div class=row>
 <div class=col-third>
 
-#### Desktop Support
+#### Quick Links
 
-* [Printers and WIFI](Desktop/Printers_and_WIFI.md)
-* [Computer Reformat](Desktop/Computer_ReFormat.md)
-* [Thin Client Reimage](Desktop/thin_reimage.md)
-* [How to Fix Busy Overhead Signal](Desktop/Busy_Overhead.md)
-* [Multiple Output Formats](Desktop/Multiple_Output_Formats.md)
-* [Multiple Languages Support](Desktop/Multilanguage.md)
-* [No Build Step](Desktop/Live_mode.md)
-* [Static Output Generation](Desktop/Static_Site_Generation.md)
-* [Table of Contents](Desktop/Table_of_contents.md)
+* [Directory](Info/Phones.md)
+* [Company Store](Info/thin_reimage.md)
+* [Kronos](Info/Busy_Overhead.md)
+* [Our Story](Info/Multiple_Output_Formats.md)
+* [Patient Experince](Info/Multilanguage.md)
+* [Quality](Info/Live_mode.md)
+* [Recognition & Feedback](Info/Static_Site_Generation.md)
+* [Work Orders](Info/Table_of_contents.md)
+* [Case Management](Info/Table_of_contents.md)
+* [WHMC News](Info/Table_of_contents.md)
 
 </div>
 <div class=col-third>
@@ -26,9 +27,9 @@
 #### For EMR
 
 * []()
-* [Extend Daux.io with Processors](For_Developers/Creating_a_Processor.md)
-* Full access to the internal API to create new pages programatically
-* Work with pages metadata
+* 
+* 
+* 
 
 </div>
 <div class=col-third>
