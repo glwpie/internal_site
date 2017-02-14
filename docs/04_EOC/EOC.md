@@ -5,9 +5,9 @@ Welcome to the Environment of Care section of the WHMC Intraweb.  In this sectio
 What is the Environment of Care?
  
 The Environment of Care is made up of three basic elements:
- •The building or space, including how it is arranged and the special features that protect patients, visitors, and staff.
- •Equipment used to support patient care or to safely operate the building or space.
- •People, including those who work within the hospital, patients, and anyone else who enters the environment, all of whom have a role in minimizing risks.
+ â€¢The building or space, including how it is arranged and the special features that protect patients, visitors, and staff.
+ â€¢Equipment used to support patient care or to safely operate the building or space.
+ â€¢People, including those who work within the hospital, patients, and anyone else who enters the environment, all of whom have a role in minimizing risks.
  
 How do I contribute to the Environment of Care?
  
