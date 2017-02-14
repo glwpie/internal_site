@@ -11,15 +11,15 @@
 #### Quick Links
 
 * [Directory](Info/Phones.md)
-* [Company Store](Desktop/thin_reimage.md)
-* [Kronos](Desktop/Busy_Overhead.md)
-* [Our Story](Desktop/Multiple_Output_Formats.md)
-* [Patient Experince](Desktop/Multilanguage.md)
-* [Quality](Desktop/Live_mode.md)
-* [Recognition & Feedback](Desktop/Static_Site_Generation.md)
-* [Work Orders](Desktop/Table_of_contents.md)
-* [Case Management](Desktop/Table_of_contents.md)
-* [WHMC News](Desktop/Table_of_contents.md)
+* [Company Store](Info/thin_reimage.md)
+* [Kronos](Info/Busy_Overhead.md)
+* [Our Story](Info/Multiple_Output_Formats.md)
+* [Patient Experince](Info/Multilanguage.md)
+* [Quality](Info/Live_mode.md)
+* [Recognition & Feedback](Info/static_Site_Generation.md)
+* [Work Orders](Info/Table_of_contents.md)
+* [Case Management](Info/Table_of_contents.md)
+* [WHMC News](Info/Table_of_contents.md)
 
 </div>
 <div class=col-third>
@@ -27,9 +27,9 @@
 #### For EMR
 
 * []()
-* [Extend Daux.io with Processors](For_Developers/Creating_a_Processor.md)
-* Full access to the internal API to create new pages programatically
-* Work with pages metadata
+* 
+* 
+* 
 
 </div>
 <div class=col-third>
