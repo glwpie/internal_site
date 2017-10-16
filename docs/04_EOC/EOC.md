@@ -1,4 +1,4 @@
-**EOC**
+**WTF is a spindle?**
 
 Welcome to the Environment of Care section of the WHMC Intraweb.  In this section you will find everything you need regarding the EOC. 
  
