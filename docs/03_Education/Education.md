@@ -1,8 +1,8 @@
-﻿**Education**
+﻿**Theft and Merchandise Retrival Policy**
 
-Welcome to the WHMC education section of the intraweb.  This section will contain information about clinical education as well as general education for the staff.  If you have any questions, please contact:
+If you see a customer attempting to jack stuff say something. "You gonna pay for that buddy?"
  
-Linda Miller at ext. 6460
+ Then we tell Jon to come climb up in that ass with his boots on 
  
 **EBOLA INFORMATION & RESOURCES**
  
