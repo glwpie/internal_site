@@ -4,11 +4,11 @@
 ------------------------
 Name | Location
 ——-|———————:
-WHMC Department Numbers Dial:| 972.863.Ext
-WHMC Department Numbers Dial:|972.863.Ext
-HOUSE SUPERVISOR| 972.861.1450
-Emergency Department| 6100
-MAIN NUMBER|	6000
+Hobbytown Dallas:| 214.987.4744
+Hobbytown Rockwall:| 972.424.8493
+Hobbytown Lewisville | 972.315.3700
+hobbytown Hurst | 317.581.1027
+Traxxas Support | 1.888.traxxas
 Environmental Services	|6930
 Same Day Surgery Nurse Station	|6200
 Human Resources	|6010
