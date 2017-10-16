@@ -1,5 +1,5 @@
 ﻿<p class="lead">
-	<strong>”Intraweb” </strong> Walnut Hill Medical Center Internal Site
+	<strong>”Intraweb” </strong> You Gon' Learn Today
 </p>
 
 <hr/>
